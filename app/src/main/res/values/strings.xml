@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Video_Game_Advisor</string>
+    <string name="find_game">Find Game</string>
+    <string name="find_game_text">No Genre Selected</string>
+    <string name="available_games_label">Available Games : </string>
+    <string-array name="game_genres">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Sports</item>
+        <item>Crime</item>
+    </string-array>
+    <string name="Crime_description">The Crime genre can be further broken down into at least a dozen subgenres, many just within the category of murder mysteries</string>
+    <string name="Sports_description">A genre in which any particular sport plays a prominent role in the game\'s plot or acts as its central theme</string>
+    <string name="Adventure_description">Adventure fiction is a type of fiction that usually presents danger, or gives the reader a sense of excitement</string>
+    <string name="Action_description">The action genre are fast-paced and include a lot of action like fight scenes, chase scenes, and slow-motion shots.</string>
+</resources>
